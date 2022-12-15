@@ -1,4 +1,4 @@
- 华夏有夫WaaHaaHasTheMen
+华夏有夫WaaHaaHasTheMen
 
 新冠病毒让我想起《权利的游戏中》的“异鬼”，前几年出现在永冬之地并杀死了一名守夜人,那时仿佛离北境的人们还很远，后来异鬼军团攻破了绝境长城，现在已经兵临城下，临冬城伤亡惨重，可这支大军只是先锋部队,凛冬将至！
 COVID-19 reminds me of the White Walkers in Game of Thrones, who appeared in the Land of Eternal Winter and killed a man of the Night's Watch a few years ago, when it seemed as if the people of the North were still far away. Then the White Walkers conquered the Great Wall, and now they are at the gates. Winterfell has suffered heavy casualties, but this army is the vanguard, Winter is coming!
@@ -28,14 +28,14 @@ Three strategies:
 2. 自我监查检测状态，出⻔必须有当日自测抗原并上传至健康码，当日抗原阴性，健康码为正常，则可以出⻔，可以在社会面公共场所活动。
 3. 自主自觉，相互提醒、相互监督，积极宣传，让更多的亲朋好友一起加入，共筑防线。
 4. 非常时期、非常事件
-a. 希望官方能够建立或征用生产线，亲自生产抗原试剂。保证准确，安全、便宜、产量， 免费面向全⺠发放，或以成本价低价流通。标准有效的抗原工具是自主防疫的基础，防疫是民生大计，不应是经济行为，希望不要引入市场因素。
+a. 希望官方能够建立或征用生产线，亲自生产抗原试剂。保证准确，安全、便宜、产量， 免费面向全⺠发放，或以成本价低价流通。标准有效的抗原工具是自主防疫的基础，防疫是民族大义、民生大计，不应是经济行为，希望不要引入市场因素。
 b. 希望官方能够保留健康码系统，并形成全国联网，一套机制，一码通用，健康码开放个人抗原上传接口，能够让用户自行扫码上传当日抗原结果并生成健康码状态。
 First, self-inspection
 1. Self-check the physical status. If you have a cold and fever, you will not go out of the house, do not meet social activities, and quarantine yourself at home.
 2. Self-check test status, go out must have the day of self-test antigen and upload to the health code, the day of antigen negative, health code is normal, you can go out, can meet in public places activities.
 3. Self-consciously, remind and supervise each other, actively publicize, and let more friends and relatives join together to build a defense line.
 4. An extraordinary time or event
-a. It is hoped that officials can establish or requisition production lines to personally produce antigen reagents. Guarantee accuracy, safety, cheap, yield, free for all people to distribute, or at cost price low circulation. Standard and effective antigenic tools are the basis for independent epidemic prevention. Epidemic prevention is a matter of people's livelihood and should not be an economic act. We hope that market factors will not be introduced.
+a. It is hoped that officials can establish or requisition production lines to personally produce antigen reagents. Guarantee accuracy, safety, cheap, yield, free for all people to distribute, or at cost price low circulation. Standard and effective antigenic tools are the basis for independent epidemic prevention. Epidemic prevention is a matter of national interests and people's livelihood, and should not be an economic act. We hope that market factors will not be introduced.
 b. It is hoped that the official health code system can be maintained and a national network can be formed, with a set of mechanisms, one code is universal, and the health code can open the personal antigen uploading interface, enabling users to scan and upload the antigen results of the day and generate the health code status.
 
 二、场所检查为次
